@@ -1,3 +1,5 @@
+github: https://github.com/ghost0224/salary.git
+
 start param:
 arg[0]=startingSalary
 arg[1]=incrementPercent
