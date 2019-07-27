@@ -8,6 +8,8 @@ arg[3]=deductions
 arg[4]=deductionsFrequently(4=quarterly; 2=half-yearly; 1=annually)
 arg[5]=prediction
 
+e.g. 2000 5 4 2 2 3
+
 Do not accept a number less than 1 for the starting salary.  Done
 Do not accept a negative number for increment or deduction.  Done
 Do not accept a number less than 1 for frequency of increment or deductions.  Done
